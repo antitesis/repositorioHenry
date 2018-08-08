@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<!--MODIFICACION EN GITHUB-->
 <html lang="{{ app()->getLocale() }}">
     <head>
         <meta charset="utf-8">
